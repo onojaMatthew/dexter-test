@@ -23,10 +23,9 @@ exports.postEmployee = (req, res, next) => {
   employee.office_phone = office_phone;
   employee.office_location = office_location;
 
-
   employee.save((err, data) => {
     if (err || !data) return res.status(400).json({
-      error: "Something went wrong"
+      error: `Something went wrong. Error ${err.message}`
     })
     res.json(data)
   })
