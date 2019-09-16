@@ -5,11 +5,13 @@ exports.postEmployee = (req, res, next) => {
   const first_name =  faker.fake("{{name.firstName}}"),
     last_name = faker.fake("{{name.lastName}}"),
     address = faker.fake("{{address.streetName}}"),
+    middle_initial = faker.fake("{{name.suffix}}"),
     city = faker.fake("{{address.city}}"),
     postal_code = faker.fake("{{address.zipCode}}")
     home_phone = faker.fake("{{phone.phoneNumber}}"),
     office_phone = faker.fake("{{phone.phoneNumber}}").
-    office_location = faker.fake("{{address.streetName}}")
+    office_location = faker.fake("{{address.streetName}}"),
+    vacation_hours = 
 
   let employee = new Employee();
   employee.first_name = first_name;
@@ -23,25 +25,10 @@ exports.postEmployee = (req, res, next) => {
   employee.office_location = office_location;
 
 
-  // employee.save((err, data) => {
-  //   if (err || !data) return res.status(400).json({
-  //     error: "Something went wrong"
-  //   })
-  //   res.json(data)
-  // })
+  employee.save((err, data) => {
+    if (err || !data) return res.status(400).json({
+      error: "Something went wrong"
+    })
+    res.json(data)
+  })
 }
-
-//  first_name: { type: String, required: true },
-//   last_name: { type: String, required: true },
-//   middle_initial: { type: String },
-//   sex: { type: String, required: true },
-//   address: { type: String },
-//   city: { type: String },
-//   region: { type: String },
-//   postal_code: { type: Number },
-//   home_phone: { type: String },
-//   office_phone: { type: String },
-//   office_location: { type: String },
-//   manager_id: { type: ObjectId, ref: "Manager" },
-//   vacation_hours: { type: Number },
-//   sick_leave_hours: { type: Number }
