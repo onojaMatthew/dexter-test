@@ -10,8 +10,7 @@ exports.postEmployee = (req, res, next) => {
     postal_code = faker.fake("{{address.zipCode}}")
     home_phone = faker.fake("{{phone.phoneNumber}}"),
     office_phone = faker.fake("{{phone.phoneNumber}}").
-    office_location = faker.fake("{{address.streetName}}"),
-    vacation_hours = 
+    office_location = faker.fake("{{address.streetName}}")
 
   let employee = new Employee();
   employee.first_name = first_name;

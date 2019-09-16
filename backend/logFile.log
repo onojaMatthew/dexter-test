@@ -760,3 +760,5 @@
 {"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T17:11:42.675Z"}
 {"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T17:11:44.173Z"}
 {"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T17:11:44.203Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T17:14:33.284Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T17:14:33.356Z"}
