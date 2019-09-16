@@ -1,0 +1,690 @@
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:06:07.794Z"}
+{"level":"error","message":"Connection to database failed. Invalid connection string","timestamp":"2019-09-16T14:06:07.827Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:06:59.192Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T14:06:59.325Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:07:30.128Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:07:31.252Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T14:07:31.434Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:08:33.926Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T14:08:34.248Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:08:47.833Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T14:08:52.749Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:09:01.210Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T14:09:01.518Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:09:11.719Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:09:16.848Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T14:09:17.205Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:09:20.931Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T14:09:20.973Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:09:27.257Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T14:09:27.758Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:09:28.559Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T14:09:29.081Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:09:33.210Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T14:09:34.396Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:09:37.696Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T14:09:37.728Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:09:49.004Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T14:09:50.035Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:09:51.151Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T14:09:51.189Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:09:53.774Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T14:09:53.808Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:09:58.089Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T14:09:58.696Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:10:05.396Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T14:10:05.443Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:10:07.074Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T14:10:07.107Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:10:09.092Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T14:10:09.131Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:10:12.107Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T14:10:12.629Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:13:51.207Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T14:13:51.498Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:14:03.975Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T14:14:04.010Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:16:33.928Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T14:16:33.965Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:16:39.763Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T14:16:40.059Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:16:46.168Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T14:16:46.214Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:16:47.781Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T14:16:47.815Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:16:58.194Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T14:16:58.602Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:17:06.884Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T14:17:06.934Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:58:39.618Z"}
+{"level":"error","message":"Connection to database failed. connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2019-09-16T14:58:39.638Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T14:59:23.964Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T14:59:24.004Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:17:02.076Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:17:02.115Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:18:22.009Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:18:22.059Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:18:28.513Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:18:28.561Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:18:52.601Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:18:52.637Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:19:30.680Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:19:30.718Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:20:03.100Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:20:03.140Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:20:05.043Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:20:05.077Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:20:12.555Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:20:12.614Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:20:23.171Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:20:23.213Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:20:34.695Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:20:34.732Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:20:36.900Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:20:36.950Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:21:05.481Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:21:05.518Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:21:08.227Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:21:08.314Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:21:14.314Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:21:14.358Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:21:15.443Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:21:15.482Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:21:36.046Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:21:36.116Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:21:38.126Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:21:38.161Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:21:53.965Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:21:54.023Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:22:07.949Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:22:07.986Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:22:19.797Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:22:19.842Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:22:21.723Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:22:21.765Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:22:30.832Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:22:30.873Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:22:53.244Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:22:53.281Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:22:57.452Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:22:57.482Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:22:59.323Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:22:59.383Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:23:30.753Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:23:30.788Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:23:38.954Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:23:38.986Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:23:40.757Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:23:40.813Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:23:43.377Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:23:43.414Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:23:57.259Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:23:57.293Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:24:06.123Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:24:06.207Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:24:20.945Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:24:21.008Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:24:32.417Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:24:32.455Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:24:49.690Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:24:49.725Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:24:54.865Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:24:54.900Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:24:57.761Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:24:57.814Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:28:07.054Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:28:07.091Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:28:10.276Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:28:10.314Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:28:14.617Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:28:14.661Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:28:42.782Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:28:42.821Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:28:52.813Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:28:52.859Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:29:23.658Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:29:23.701Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:29:47.263Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:29:47.305Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:32:34.041Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:32:34.083Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:33:25.019Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:33:25.059Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:33:36.520Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:33:36.561Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:33:43.501Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:33:43.542Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:33:50.470Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:33:50.515Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:33:58.132Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:33:58.189Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:34:03.318Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:34:03.390Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:34:05.463Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:34:05.511Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:34:07.357Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:34:07.403Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:34:15.671Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:34:15.709Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:34:22.772Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:34:22.847Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:34:27.071Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:34:27.115Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:34:28.664Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:34:28.712Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:34:36.259Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:34:36.300Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:34:39.657Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:34:39.710Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:35:02.817Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:35:02.870Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:35:04.158Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:35:04.196Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:35:06.694Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:35:06.735Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:35:07.992Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:35:08.028Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:35:12.616Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:35:12.664Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:35:14.511Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:35:14.572Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:35:17.222Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:35:17.276Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:35:20.745Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:35:20.798Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:35:25.869Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:35:25.927Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:36:36.122Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:36:36.162Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:36:38.571Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:36:38.605Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:36:42.393Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:36:42.444Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:36:43.635Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:36:43.685Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:36:49.372Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:36:49.423Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:36:55.260Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:36:55.305Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:36:57.780Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:36:57.816Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:38:10.370Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:38:10.414Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:38:30.708Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:38:30.756Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:38:35.376Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:38:35.416Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:38:37.676Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:38:37.723Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:38:49.793Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:38:49.832Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:38:51.296Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:38:51.334Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:38:56.828Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:38:56.865Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:39:08.703Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:39:08.739Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:39:10.750Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:39:10.794Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:39:15.976Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:39:16.013Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:39:24.109Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:39:24.181Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:39:26.226Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:39:26.260Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:39:54.518Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:39:54.555Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:40:11.616Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:40:11.663Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:40:19.707Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:40:19.744Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:40:21.874Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:40:21.913Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:40:25.173Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:40:25.231Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:40:28.173Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:40:28.227Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:40:29.451Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:40:29.513Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:40:33.746Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:40:33.844Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:40:37.179Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:40:37.227Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:40:39.798Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:40:39.856Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:40:45.699Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:40:45.776Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:40:50.669Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:40:50.714Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:40:55.467Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:40:55.523Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:40:57.450Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:40:57.493Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:41:44.329Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:41:44.365Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:41:53.829Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:41:53.871Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:41:58.579Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:41:58.624Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:42:05.693Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:42:05.737Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:42:13.568Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:42:13.615Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:42:23.567Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:42:23.617Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:42:25.847Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:42:25.899Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:42:27.706Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:42:27.748Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:42:31.374Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:42:31.414Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:43:48.554Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:43:48.607Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:43:53.993Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:43:54.060Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:43:55.495Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:43:55.532Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:44:01.405Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:44:01.457Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:44:03.694Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:44:03.734Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:44:11.724Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:44:11.790Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:44:16.000Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:44:16.070Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:44:23.770Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:44:23.816Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:44:31.298Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:44:31.337Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:44:32.569Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:44:32.607Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:44:35.802Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:44:35.838Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:46:57.305Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:46:57.383Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:46:58.990Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:46:59.060Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:47:01.805Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:47:01.862Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:48:06.393Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:48:06.453Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:48:24.878Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:48:24.933Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:48:29.169Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:48:29.206Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:48:40.210Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:48:40.252Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:48:44.358Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:48:44.398Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:48:50.318Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:48:50.363Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:49:23.779Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:49:23.824Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:49:28.284Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:49:28.321Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:49:30.420Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:49:30.470Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:49:41.846Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:49:41.938Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:49:50.248Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:49:50.291Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:50:31.313Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:50:31.378Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:50:35.297Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:50:35.356Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:50:39.961Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:50:39.999Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:50:43.662Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:50:43.699Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:50:47.004Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:50:47.043Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:51:04.114Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:51:04.183Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:51:17.629Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:51:17.697Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:51:30.200Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:51:30.240Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:51:31.290Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:51:31.338Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:51:36.651Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:51:36.691Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:52:12.263Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:52:12.313Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:52:14.985Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:52:15.033Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:52:24.255Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:52:24.313Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:52:28.720Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:52:28.765Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:52:30.027Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:52:30.084Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:58:50.246Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:58:50.348Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:59:12.313Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:59:12.361Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:59:19.991Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:59:20.030Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:59:39.500Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:59:39.571Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:59:40.891Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:59:40.945Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:59:47.347Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:59:47.400Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:59:49.739Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:59:49.789Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:59:57.162Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:59:57.209Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T15:59:59.254Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T15:59:59.367Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:00:04.456Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:00:04.529Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:00:09.240Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:00:09.284Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:00:14.153Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:00:14.204Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:00:22.940Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:00:22.990Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:00:29.013Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:00:29.084Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:00:31.037Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:00:31.087Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:00:34.023Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:00:34.063Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:00:39.028Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:00:39.082Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:01:56.267Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:01:56.304Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:05:08.247Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:05:08.281Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:05:09.656Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:05:09.701Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:05:10.808Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:05:10.844Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:06:36.488Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:06:36.540Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:06:44.461Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:06:45.604Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:06:45.633Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:06:47.052Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:06:47.100Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:06:49.312Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:06:49.351Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:06:52.005Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:06:52.047Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:06:56.810Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:06:56.854Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:09:55.338Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:09:55.392Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:11:17.506Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:11:17.557Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:11:35.037Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:11:35.102Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:11:41.955Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:11:42.003Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:11:48.253Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:11:48.302Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:11:49.959Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:11:50.014Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:12:18.159Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:12:18.229Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:12:21.021Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:12:21.069Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:12:25.805Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:12:25.869Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:12:30.197Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:12:30.247Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:12:50.357Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:12:50.411Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:13:24.273Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:13:24.343Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:13:32.171Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:13:32.239Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:13:37.298Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:13:37.377Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:13:43.943Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:13:43.990Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:13:47.191Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:13:47.239Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:13:49.965Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:13:50.024Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:13:51.956Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:13:52.004Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:14:20.843Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:14:20.886Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:14:44.749Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:14:44.832Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:14:50.011Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:14:50.050Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:15:12.295Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:15:12.345Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:15:30.353Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:15:30.395Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:15:35.550Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:15:35.599Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:15:42.245Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:15:42.292Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:15:43.900Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:15:43.957Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:16:09.634Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:16:09.691Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:16:28.641Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:16:28.684Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:16:43.282Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:16:43.321Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:16:47.849Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:16:47.892Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:18:35.814Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:18:35.864Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:18:37.374Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:18:37.422Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:19:20.216Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:19:20.260Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:20:00.782Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:20:00.815Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:20:02.885Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:20:02.934Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:20:12.506Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:20:12.544Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:20:16.968Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:20:17.020Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:20:18.499Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:20:18.536Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:20:19.654Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:20:19.699Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:20:20.834Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:20:20.887Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:20:23.842Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:20:23.881Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:20:31.959Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:20:31.997Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:20:50.614Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:20:50.661Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:20:53.431Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:20:53.498Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:20:55.878Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:20:55.949Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:21:06.852Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:21:06.914Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:21:15.397Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:21:15.441Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:21:16.995Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:21:17.056Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:21:19.289Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:21:19.327Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:21:23.203Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:21:23.252Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:21:32.605Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:21:32.649Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:21:45.112Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:21:45.150Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:22:48.967Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:22:49.007Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:22:50.455Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:22:50.495Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:22:55.369Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:22:55.436Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:23:04.194Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:23:04.236Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:23:05.693Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:23:05.751Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:23:09.212Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:23:09.265Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:23:12.185Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:23:12.223Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:23:16.723Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:23:16.770Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:23:18.986Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:23:19.032Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:23:28.943Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:23:28.990Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:23:35.868Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:23:35.903Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:23:43.394Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:23:43.431Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:23:45.562Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:23:45.599Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:23:47.214Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:23:47.257Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:25:25.473Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:25:25.533Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:25:28.576Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:25:28.654Z"}
+{"level":"error","message":"Connection to database failed. connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2019-09-16T16:32:31.199Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:34:23.766Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:34:23.812Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:34:43.326Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:34:43.367Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:34:59.032Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:34:59.066Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:35:03.946Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:35:04.002Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:35:11.320Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:35:11.375Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:35:13.898Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:35:14.989Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:35:15.035Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:35:18.777Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:35:18.825Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:35:23.971Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:35:24.020Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:35:25.949Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:35:26.018Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:35:31.711Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:35:31.762Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:35:34.113Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:35:34.169Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:35:45.215Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:35:45.261Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:35:54.694Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:35:54.759Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:35:57.526Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:35:57.613Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:36:01.627Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:36:01.691Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:36:10.541Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:36:10.596Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:36:12.633Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:36:12.687Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:36:27.698Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:36:27.749Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:36:30.095Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:36:30.131Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:36:34.201Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:36:34.236Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:36:41.226Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:36:41.271Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:36:43.145Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:36:43.190Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:39:07.077Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:39:07.132Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:39:09.607Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:39:09.675Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:39:19.306Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:39:19.349Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:39:21.682Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:39:21.725Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:39:23.658Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:39:23.706Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:39:25.425Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:39:25.475Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:39:30.106Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:39:30.152Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:40:10.677Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:40:10.727Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:40:27.568Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:40:27.614Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:40:29.693Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:40:29.737Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:40:31.250Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:40:31.319Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:45:20.779Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:45:20.809Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:46:19.648Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:46:29.053Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:46:50.109Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:46:50.162Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:47:19.543Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:47:20.667Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:47:20.706Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:47:30.171Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:47:30.209Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:47:35.050Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:47:35.089Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:47:37.554Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:47:37.591Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:47:38.973Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:47:39.023Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:48:14.948Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:48:14.988Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:48:19.063Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:48:19.102Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:48:43.018Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:48:43.123Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:48:45.309Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:48:45.368Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:49:16.874Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:49:16.940Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:49:19.938Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:49:19.974Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:49:25.821Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:49:25.862Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:49:28.899Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:49:28.966Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:49:36.253Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:49:36.303Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:49:39.456Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:49:39.491Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:49:48.609Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:49:48.647Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:49:56.132Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:49:56.173Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:49:57.730Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:49:57.769Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:50:09.381Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:50:09.432Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:50:29.897Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:50:29.934Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:50:34.733Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:50:34.782Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:50:43.250Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:50:43.288Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:50:59.777Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:50:59.823Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:51:11.229Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:51:11.267Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:51:12.361Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:51:12.391Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:51:16.296Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:51:16.347Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:51:47.088Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:51:47.128Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:52:03.074Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:52:03.109Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:52:06.051Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:52:06.093Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:52:08.204Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:52:08.241Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:55:37.322Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:55:37.358Z"}
+{"level":"info","message":"Server is up and listening on port 4200","timestamp":"2019-09-16T16:55:41.316Z"}
+{"level":"info","message":"Connection to database established!","timestamp":"2019-09-16T16:55:41.352Z"}
